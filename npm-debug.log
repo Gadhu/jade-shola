@@ -1,0 +1,48 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node',
+1 verbose cli   '/usr/share/npm/bin/npm-cli.js',
+1 verbose cli   'run',
+1 verbose cli   'start:hugo' ]
+2 info using npm@3.5.2
+3 info using node@v8.10.0
+4 verbose run-script [ 'prestart:hugo', 'start:hugo', 'poststart:hugo' ]
+5 info lifecycle victor-hugo@1.0.0~prestart:hugo: victor-hugo@1.0.0
+6 silly lifecycle victor-hugo@1.0.0~prestart:hugo: no script for prestart:hugo, continuing
+7 info lifecycle victor-hugo@1.0.0~start:hugo: victor-hugo@1.0.0
+8 verbose lifecycle victor-hugo@1.0.0~start:hugo: unsafe-perm in lifecycle true
+9 verbose lifecycle victor-hugo@1.0.0~start:hugo: PATH: /usr/share/npm/bin/node-gyp-bin:/home/gadhu/pocs/victor-hugo/node_modules/.bin:/usr/share/npm/bin/node-gyp-bin:/home/gadhu/pocs/victor-hugo/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+10 verbose lifecycle victor-hugo@1.0.0~start:hugo: CWD: /home/gadhu/pocs/victor-hugo
+11 silly lifecycle victor-hugo@1.0.0~start:hugo: Args: [ '-c', 'hugo -d ../dist -s site -vw' ]
+12 silly lifecycle victor-hugo@1.0.0~start:hugo: Returned: code: 255  signal: null
+13 info lifecycle victor-hugo@1.0.0~start:hugo: Failed to exec start:hugo script
+14 verbose stack Error: victor-hugo@1.0.0 start:hugo: `hugo -d ../dist -s site -vw`
+14 verbose stack Exit status 255
+14 verbose stack     at EventEmitter.<anonymous> (/usr/share/npm/lib/utils/lifecycle.js:232:16)
+14 verbose stack     at emitTwo (events.js:126:13)
+14 verbose stack     at EventEmitter.emit (events.js:214:7)
+14 verbose stack     at ChildProcess.<anonymous> (/usr/share/npm/lib/utils/spawn.js:24:14)
+14 verbose stack     at emitTwo (events.js:126:13)
+14 verbose stack     at ChildProcess.emit (events.js:214:7)
+14 verbose stack     at maybeClose (internal/child_process.js:925:16)
+14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+15 verbose pkgid victor-hugo@1.0.0
+16 verbose cwd /home/gadhu/pocs/victor-hugo
+17 error Linux 5.0.0-37-generic
+18 error argv "/usr/bin/node" "/usr/share/npm/bin/npm-cli.js" "run" "start:hugo"
+19 error node v8.10.0
+20 error npm  v3.5.2
+21 error code ELIFECYCLE
+22 error victor-hugo@1.0.0 start:hugo: `hugo -d ../dist -s site -vw`
+22 error Exit status 255
+23 error Failed at the victor-hugo@1.0.0 start:hugo script 'hugo -d ../dist -s site -vw'.
+23 error Make sure you have the latest version of node.js and npm installed.
+23 error If you do, this is most likely a problem with the victor-hugo package,
+23 error not with npm itself.
+23 error Tell the author that this fails on your system:
+23 error     hugo -d ../dist -s site -vw
+23 error You can get information on how to open an issue for this project with:
+23 error     npm bugs victor-hugo
+23 error Or if that isn't available, you can get their info via:
+23 error     npm owner ls victor-hugo
+23 error There is likely additional logging output above.
+24 verbose exit [ 1, true ]
