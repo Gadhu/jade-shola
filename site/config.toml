@@ -43,7 +43,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "The Jade Shola"
-		content = "We are a small family run outfit from a tribe who have been living in these gorgeus mountains in harmony for hundreds of years. We are passionate about saving what is left of this wonderful land from the ravages of modernisation. We are trying to do our bit by trying to regenerate native flora in what is left of our ancestral lands"
+		content = "We are a small family run outfit from a tribe who have been living in these gorgeous mountains in harmony for hundreds of years. We are passionate about saving what is left of this wonderful land from the ravages of modernisation. We are trying to do our bit by trying to regenerate native flora in what is left of our ancestral lands"
 
 
 	[params.portfolio]
@@ -61,8 +61,8 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "HSssss"
+			description = "Guest houses at Jade Shola for our slithery friends..."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
@@ -73,20 +73,20 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Syzygium cumini"
+			description = "The Naaval tree"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Solur"
+			description = "The Solur highlands form a beautiful backdrop to Jade Shola"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Howdy tiny people.."
+			description = "The local tusker has left his calling card at Jade Shola"
 
 	[params.recentposts]
 		hide  = false
