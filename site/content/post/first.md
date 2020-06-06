@@ -12,4 +12,5 @@ The Nilgiris massif is at the juncture of the Eastern ghats and the Western ghat
 ![](../images/shola2.jpg)
 
 
+Please visit our friends at [Uptream Ecology](https://upstreamecology.org/) who we consider the experts in the Shola ecosystem. They are providing us expert help in the restoration , including supply of all native the grasses, shrubs and trees which they painstakingly grow in their nursery 
 
