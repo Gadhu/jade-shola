@@ -51,7 +51,7 @@ paginate = 10
 
 
 	[params.portfolio]
-		hide  = true
+		hide  = false
 		title = "Gallery"
 
 		# The images and thumbnails are stored under static/images
@@ -93,7 +93,7 @@ paginate = 10
 			description = "The local tusker has left his calling card at Jade Shola"
 
 	[params.recentposts]
-		hide  = false
+		hide  = true
 		title = "Recent blog posts"
 
 	[params.contact]
